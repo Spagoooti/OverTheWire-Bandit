@@ -15,4 +15,4 @@ ls, cd, cat, file, du, find
 5.) cat .hidden
 # Password
 Bandit4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%202%20-%3E%203.md)
