@@ -11,4 +11,5 @@ ls, cd, cat, file, du, find
 2.) ls -la <br />
 3.) cat readme
 # Password
-Bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+Bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL <br />
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md)
