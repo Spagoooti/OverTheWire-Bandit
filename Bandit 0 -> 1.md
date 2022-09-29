@@ -3,7 +3,7 @@ The password for the next level is stored in a file called readme located in the
 # Commands
 ls, cd, cat, file, du, find
 # Walkthrough
-<br />1.) Ssh into the Bandit server and log in as bandit0 using the password bandit0.
+1.) Ssh into the Bandit server and log in as bandit0 using the password bandit0. <br />
 2.) Search the home directory for a file called readme.
 3.) Open the file named readme and save the password.
 # Solution
