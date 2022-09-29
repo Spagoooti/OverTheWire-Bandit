@@ -6,4 +6,5 @@ Scripts and walkthrough files containing solutions for OverTheWire.org's Bandit 
 [Bandit 1 -> 2](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%201%20-%3E%202.md) <br />
 [Bandit 2 -> 3](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%202%20-%3E%203.md) <br />
 [Bandit 3 -> 4](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%203%20-%3E%204.md) <br />
-[Bandit 4 -> 5](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%204%20-%3E%205.md)
+[Bandit 4 -> 5](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%204%20-%3E%205.md) <br />
+[Bandit 5 -> 6](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%205%20-%3E%206.md)
