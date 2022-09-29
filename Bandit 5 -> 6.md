@@ -20,4 +20,4 @@ ls, cd, cat, file, du, find
 6.) cat ./maybehere07/.file2
 # Password
 Bandit6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%202%20-%3E%203.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%204%20-%3E%205.md)
