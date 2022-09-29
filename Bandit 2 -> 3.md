@@ -12,4 +12,4 @@ ls, cd, cat, file, du, find
 3.) cat "spaces in this filename"
 # Password
 Bandit3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%203%20-%3E%204.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%201%20-%3E%202.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%203%20-%3E%204.md)
