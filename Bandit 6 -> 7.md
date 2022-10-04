@@ -11,7 +11,7 @@ ls, cd, cat, file, du, find
 3.) Search subdirectories for a file with the above qualities. <br />
 4.) Open the file that does not return "permission denied" and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit6 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit6 <br />
 2.) cd / <br />
 3.) ls -la <br />
 4.) find . -user bandit7 -group bandit6 -size 33c <br />
