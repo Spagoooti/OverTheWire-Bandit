@@ -12,7 +12,7 @@ ls, cd, cat, file, du, find
 4.) Search subdirectories for a file with the above qualities. <br />
 5.) Open the file named ".file2" under the "maybehere07" directory and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit5 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit5 <br />
 2.) ls -la <br />
 3.) cd inhere <br />
 4.) ls -la <br />
