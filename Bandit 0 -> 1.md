@@ -7,7 +7,7 @@ ls, cd, cat, file, du, find
 2.) Search the home directory for a file called readme. <br />
 3.) Open the file named readme and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit0 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit0 <br />
 2.) ls -la <br />
 3.) cat readme
 # Password
