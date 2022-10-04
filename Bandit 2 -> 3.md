@@ -7,7 +7,7 @@ ls, cd, cat, file, du, find
 2.) Search the home directory for a file called "spaces in this filename". <br />
 3.) Open the file named "spaces in this filename" and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit2 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit2 <br />
 2.) ls -la <br />
 3.) cat "spaces in this filename"
 # Password
