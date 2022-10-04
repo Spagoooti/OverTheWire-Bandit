@@ -13,9 +13,8 @@ ls, cd, cat, file, du, find
 # Solution
 1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit6 <br />
 2.) cd / <br />
-3.) ls -la <br />
-4.) find . -user bandit7 -group bandit6 -size 33c <br />
-5.) cat ./var/lib/dpkg/info/bandit7.password
+3.) find . -user bandit7 -group bandit6 -size 33c <br />
+4.) cat ./var/lib/dpkg/info/bandit7.password
 # Password
 Bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S <br /> <br />
 [Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%205%20-%3E%206.md)
