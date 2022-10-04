@@ -60,4 +60,4 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, fil
 27.) cat data8
 # Password
 Bandit13: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2019/Bandit%2011%20-%3E%2012.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2020/Bandit%2011%20-%3E%2012.md)
