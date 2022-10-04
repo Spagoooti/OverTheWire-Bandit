@@ -14,4 +14,4 @@ ls, cd, cat, file, du, find
 4.) cat ./-file07
 # Password
 Bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%203%20-%3E%204.md) [Next]([https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%205%20-%3E%206.md](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%205%20-%3E%206.md))
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%203%20-%3E%204.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%205%20-%3E%206.md)
