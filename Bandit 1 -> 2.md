@@ -7,7 +7,7 @@ ls, cd, cat, file, du, find
 2.) Search the home directory for a file called "-". <br />
 3.) Open the file named "-" and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit1 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit1 <br />
 2.) ls -la <br />
 3.) cat ./-
 # Password
