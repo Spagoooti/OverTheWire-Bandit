@@ -10,10 +10,10 @@ ls, cd, cat, file, du, find
 5.) Open the file named "-file07" and save the password.
 # Solution
 1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit4 <br />
-2.) ls -la <br />
-3.) cd inhere <br />
-4.) ls -la <br />
-5.) file ./*
+2.) cd inhere <br />
+3.) ls -la <br />
+4.) file ./*
+5.) cat ./-file07
 # Password
 Bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR <br /> <br />
 [Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%203%20-%3E%204.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%205%20-%3E%206.md)
