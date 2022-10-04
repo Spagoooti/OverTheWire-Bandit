@@ -4,7 +4,7 @@ owned by user bandit7 <br />
 owned by group bandit6 <br />
 33 bytes in size
 # Commands
-ls, cd, cat, file, du, find
+ls, cd, cat, file, du, find, grep
 # Walkthrough
 1.) Ssh into the Bandit server and log in as bandit6. <br />
 2.) Change directory to the root directory. <br />
