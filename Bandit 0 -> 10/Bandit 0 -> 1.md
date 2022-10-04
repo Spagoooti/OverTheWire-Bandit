@@ -10,4 +10,4 @@ ls, cd, cat, file, du, find
 2.) cat readme
 # Password
 Bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%201%20-%3E%202.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%201%20-%3E%202.md)
