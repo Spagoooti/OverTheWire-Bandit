@@ -10,7 +10,7 @@ ls, cd, cat, file, du, find
 # Solution
 1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit4 <br />
 2.) cd inhere <br />
-3.) file ./*
+3.) file ./* <br />
 4.) cat ./-file07
 # Password
 Bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR <br /> <br />
