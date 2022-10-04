@@ -10,4 +10,4 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 2.) strings data.txt | grep "===="
 # Password
 Bandit10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%208%20-%3E%209.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2019/Bandit%2010%20-%3E%2011.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%208%20-%3E%209.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2020/Bandit%2010%20-%3E%2011.md)
