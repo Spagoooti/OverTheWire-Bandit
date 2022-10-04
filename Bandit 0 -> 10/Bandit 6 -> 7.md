@@ -17,4 +17,4 @@ ls, cd, cat, file, du, find, grep
 4.) cat ./var/lib/dpkg/info/bandit7.password
 # Password
 Bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%205%20-%3E%206.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%207%20-%3E%208.md)
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%205%20-%3E%206.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%207%20-%3E%208.md)
