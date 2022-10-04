@@ -15,7 +15,7 @@ ls, cd, cat, file, du, find
 2.) cd / <br />
 3.) ls -la <br />
 4.) find . -user bandit7 -group bandit6 -size 33c <br />
-5. 
+5.) cat ./var/lib/dpkg/info/bandit7.password
 # Password
-Bandit7: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe <br /> <br />
+Bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S <br /> <br />
 [Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%202%20-%3E%203.md)
