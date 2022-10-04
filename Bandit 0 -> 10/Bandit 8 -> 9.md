@@ -10,4 +10,4 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 2.) sort data.txt | uniq -u
 # Password
 Bandit9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back]()
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%207%20-%3E%208.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%209%20-%3E%2010.md)
