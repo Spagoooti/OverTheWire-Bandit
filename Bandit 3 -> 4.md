@@ -8,7 +8,7 @@ ls, cd, cat, file, du, find
 3.) Change from the home directory to the "inhere" directory. <br />
 4.) Open the file named ".hidden" and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit3 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit3 <br />
 2.) ls -la <br />
 3.) cd inhere <br />
 4.) ls -la <br />
