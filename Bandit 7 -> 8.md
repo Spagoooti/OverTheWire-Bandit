@@ -9,5 +9,5 @@ man, grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit7<br />
 2.) grep "millionth" data.txt
 # Password
-Bandit8 TESKZC0XvTetK0S9xNwm25STk5iWrBvP <br /> <br />
+Bandit8: TESKZC0XvTetK0S9xNwm25STk5iWrBvP <br /> <br />
 [Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%206%20-%3E%207.md)
