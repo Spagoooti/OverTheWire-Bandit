@@ -9,7 +9,7 @@ ls, cd, cat, file, du, find
 4.) Search  for a file within the folder that is human readable. <br />
 5.) Open the file named "-file07" and save the password.
 # Solution
-1.) ssh bandit.labs.overthewire.org -p 2220 bandit4 <br />
+1.) ssh bandit.labs.overthewire.org -p 2220 -l bandit4 <br />
 2.) ls -la <br />
 3.) cd inhere <br />
 4.) ls -la <br />
