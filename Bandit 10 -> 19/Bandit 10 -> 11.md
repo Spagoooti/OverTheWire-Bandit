@@ -10,4 +10,4 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 2.) base64 -d data.txt
 # Password
 Bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back]()
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%200%20-%3E%2010/Bandit%209%20-%3E%2010.md)
