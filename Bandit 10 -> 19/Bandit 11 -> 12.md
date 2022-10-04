@@ -10,4 +10,4 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 2.) cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 # Password
 Bandit12: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv <br /> <br />
-[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back]()
+[Home](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/README.md) [Back](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2019/Bandit%2010%20-%3E%2011.md) [Next](https://github.com/Spagoooti/OverTheWire-Bandit/blob/main/Bandit%2010%20-%3E%2019/Bandit%2012%20-%3E%2013.md)
